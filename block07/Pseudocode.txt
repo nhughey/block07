@@ -1,0 +1,15 @@
+1. Create an HTML page to initalize a JavaScript file in the same directory. 
+
+3. Create an alert in JavaScript that displays the following message for the user: 
+"You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
+
+3. In JS, Declare 3 Variables with calculations that result in the desired combination digits
+    var key1 = an addition that equals  10
+    var key2 = a substracton that equals 40
+    var key3 = a multiplication that equals 39
+
+4. Combine the the output of the three variables into a string that shows "10 - 40 - 39"
+    let lockCombo = key1 + "-" + key2 + "-" + key3;
+
+5. Create an alert in JS that show the lock combination
+    alert("Listen carefully... I will only say this once: " + lockCombo);
